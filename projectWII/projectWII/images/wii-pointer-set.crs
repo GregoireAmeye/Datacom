@@ -1,0 +1,12 @@
+﻿[Arrow]
+Path=Wii Pointer.cur
+
+[Hand]
+Path=Wii Pointer Blue.cur
+
+[AppStarting]
+Path=Wii Pointer Loading CD.ani
+
+[Wait]
+Path=Loading Busy.ani
+
